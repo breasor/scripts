@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config>
+	<company>
+		<name>"Rémy Cointreau USA"</name>
+			<!-- <Office key="Location" value="US New York, US California, US Texas, US Illinois"/> -->
+		
+	</company>
+	<!-- <company key="Company Name" value="Rémy Cointreau USA, Rémy Cointreau SA, Rémy Martin, SEA Metaxa, SIS, Rémy International Pte Ltd, Rémy Cointreau UK Distribution, Rémy Cointreau Travel Americas, Rémy Cointreau Taiwan, Rémy Cointreau South Africa, " -->
+	<site location="North America">
+		<OU>OU=Users,OU=NYC0,OU=US,OU=NA,DC=groupe,DC=remy,DC=cointreau</OU>
+	</site>
+
+</config>
