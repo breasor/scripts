@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Settings>
+    <EmailSettings>
+        <SMTPServer>smtp.remyusa.com</SMTPServer>
+        <SMTPPort>25</SMTPPort>
+        <MailFrom>Office365-Administrator@remy-cointreau.com</MailFrom>
+        <MailTo>brett.reasor@remyusa.com</MailTo>
+    </EmailSettings>
+    <RoleSettings>
+        <Roles type="array">
+            <value>Company Administrator</value>
+            <value>User Account Administrator</value>
+            <value>Service Support Administrator</value>
+        </Roles>
+    </RoleSettings>
+</Settings>
