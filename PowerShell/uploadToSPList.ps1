@@ -16,7 +16,7 @@ else
 $url = "https://remycointreau.sharepoint.com/Team/rc_americas/sales"
 $username = "a-breasor@remyusa.com"
 #$password = Read-Host "password" -AsSecureString
-$password = ConvertTo-SecureString "Azeroth66!" -AsPlainText -Force
+$password = ConvertTo-SecureString "#########!" -AsPlainText -Force
 
 $ctx=New-Object Microsoft.SharePoint.Client.ClientContext($Url)
 $ctx.Credentials = New-Object Microsoft.SharePoint.Client.SharePointOnlineCredentials($Username, $password)
